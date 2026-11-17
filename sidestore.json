@@ -14,7 +14,15 @@
       "iconURL": "https://raw.githubusercontent.com/1aristarh/TU-Student-releases/main/icon.png",
       "tintColor": "408CFF",
       "category": "education",
-      "versions": []
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-11-17T20:05:26Z",
+          "downloadURL": "https://github.com/1aristarh/TU-Student-releases/releases/download/v1.1.0/TU-Student-1.1.0.ipa",
+          "size": 9494235,
+          "localizedDescription": "TU Student 1.1.0"
+        }
+      ]
     }
   ],
   "news": []
