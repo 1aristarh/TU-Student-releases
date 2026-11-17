@@ -1,0 +1,21 @@
+{
+  "name": "TU Student",
+  "identifier": "bg.technical-university.student.source",
+  "subtitle": "Неофициално приложение за студенти от ТУ-Пловдив",
+  "iconURL": "https://raw.githubusercontent.com/1aristarh/TU-Student-releases/main/icon.png",
+  "website": "https://github.com/1aristarh/TU-Student-releases",
+  "apps": [
+    {
+      "name": "TU Student",
+      "bundleIdentifier": "bg.technical-university.student",
+      "developerName": "1aristarh",
+      "subtitle": "ETUS + Moodle на едно място",
+      "localizedDescription": "Оценки и заверки от ETUS, курсове, задачи и събития от Moodle, календар и студентска карта. Неофициално приложение.",
+      "iconURL": "https://raw.githubusercontent.com/1aristarh/TU-Student-releases/main/icon.png",
+      "tintColor": "408CFF",
+      "category": "education",
+      "versions": []
+    }
+  ],
+  "news": []
+}
