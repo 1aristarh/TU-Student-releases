@@ -16,6 +16,13 @@
       "category": "education",
       "versions": [
         {
+          "version": "2.0.0",
+          "date": "2026-11-23T11:41:09Z",
+          "downloadURL": "https://github.com/1aristarh/TU-Student-releases/releases/download/v2.0.0/TU-Student-2.0.0.ipa",
+          "size": 13120478,
+          "localizedDescription": "TU Student 2.0.0"
+        },
+        {
           "version": "1.4.3",
           "date": "2026-11-23T09:20:57Z",
           "downloadURL": "https://github.com/1aristarh/TU-Student-releases/releases/download/v1.4.3/TU-Student-1.4.3.ipa",
